@@ -7,7 +7,7 @@ function login(){
                 <div className="w-6/12">
                     <img className="max-h-full" src="./logo.jpeg" />
                 </div>
-                <div className="w-6/12 flex flex-col gap-16">
+                <div className="w-6/12 flex flex-col gap-8">
                     <div className="self-center flex flex-col">
                         <h1 className="self-center bold text-3xl">Get Started</h1>
                         <p className="text-gray-400">Already have account? <Link className="text-green-500">Sign in</Link></p>
